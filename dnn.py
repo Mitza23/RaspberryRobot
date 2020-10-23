@@ -147,7 +147,7 @@ if __name__ == "__main__":
     
     f = open('data.txt', 'w')
     
-<<<<<<< HEAD
+
     linmin = 120 #160
     colmin = 160 #213
     linmax = 360 #320
