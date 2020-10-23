@@ -133,6 +133,7 @@ if __name__ == "__main__":
     aux = [[0 for i in range(w)] for j in range(h)]
     
            
+
     d_lim = 500
    
     s=s+int(distance_map[240,320])
@@ -146,6 +147,7 @@ if __name__ == "__main__":
     
     f = open('data.txt', 'w')
     
+<<<<<<< HEAD
     linmin = 120 #160
     colmin = 160 #213
     linmax = 360 #320
